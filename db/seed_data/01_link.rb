@@ -1,3 +1,4 @@
+
 Link.populate(3) do |l|
   l.identifier = l.id.to_s(36)
   Url.populate(1) do |u|
@@ -14,4 +15,3 @@ Link.populate(1) do |l|
     u.link_id  = l.id
   end	
 end
-

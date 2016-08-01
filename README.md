@@ -1,6 +1,11 @@
 # TinyURL
+-
 
+# Install Instructions
 
+[http://www.chrisjmendez.com/2016/07/31/rails-5-tasks/](http://www.chrisjmendez.com/2016/07/31/rails-5-tasks/)
+
+---
 
 ### TODO Tests
 

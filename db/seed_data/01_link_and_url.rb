@@ -1,5 +1,5 @@
 
-Link.populate(3) do |l|
+Link.populate(10) do |l|
   l.identifier = l.id.to_s(36)
   Url.populate(1) do |u|
     u.original = Faker::Internet.url
